@@ -10,7 +10,7 @@
 - Auto upgrade
 - Multiple Accounts
 
-## COOMANDS
+## COMMANDS
 ```
 pkg install nodejs-lts
 ```
