@@ -26,7 +26,7 @@ pkg install git
 
 2. **Instal Requirements:**
    ```bash
-   npm i
+   npm install
    ```
 3. **ADD ACCOUNTS**
    ```
@@ -36,12 +36,14 @@ pkg install git
 ```bash
 node dropee.js
 ```
+For those using multiple accounts, it's recommended to use a proxy (if using only one account, there's no need to create the proxy.txt file).
+
+[GET HIGH QUALITY CHEAP PROXIES FROM HERE (USE CODE "ashtrobe" FOR DISCOUNT!](https://proxy-sale.com/?partner_link=7w04Ij8gwl)
+
 For Proxy :
 ```
 node dropee-proxy.js
 ```
-For those using multiple accounts, it's recommended to use a proxy (if using only one account, there's no need to create the proxy.txt file).
-
 ---
 
 ## PROXY FORMAT
